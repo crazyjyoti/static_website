@@ -1,5 +1,5 @@
 # static_website
-####  build this website  using HTML and CSS. In this website design we will create Home page of eCommerce website with banner section, top categories to choose from, some Product for you images, then some recently viewed products with product price, image and rating. 
+####  Build this website  using HTML and CSS. In this website design we will create Home page of eCommerce website with banner section, top categories to choose from, some Product for you images, then some recently viewed products with product price, image and rating. 
 
 #### Then there will be one offer section with exclusive product. After that there will be testimonials where people write their views. At the bottom of website we will make footer with 4 columns.
 
