@@ -1,9 +1,9 @@
 # static_website
-#### H4 build an eCommerce website  using HTML and CSS. In this e-commerce website design we will create Home page of eCommerce website with banner section, top categories to choose from, some Product for you images, then some recently viewed products with product price, image and rating. 
+####  build an eCommerce website  using HTML and CSS. In this e-commerce website design we will create Home page of eCommerce website with banner section, top categories to choose from, some Product for you images, then some recently viewed products with product price, image and rating. 
 
 #### Then there will be one offer section with exclusive product. After that there will be testimonials where people write their views. At the bottom of website we will make footer with 4 columns.
 
-#### H23After that we will make this complete website design responsive.
+#### After that we will make this complete website design responsive.
 ![Screenshot (227)](https://user-images.githubusercontent.com/51984459/178204581-38ca320f-8809-43ac-ab8e-714b563a098b.png)
 ![Screenshot (228)](https://user-images.githubusercontent.com/51984459/178204596-c8a341db-a39e-4f94-bf92-4b8b3ab626ac.png)
 ![Screenshot (229)](https://user-images.githubusercontent.com/51984459/178204645-e6212219-1932-4abf-85aa-ed4740ff60c7.png)
