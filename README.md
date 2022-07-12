@@ -1,6 +1,10 @@
 # static_website
 ### Link->https://roaring-dragon-4f6fd8.netlify.app/
 
+#### Build this basic website design using html and css, in which there are different sections with images of the product and rating along with home page & footer and if you hover any of the images except "Top Categories To Choose From" section it will slide up for few sec.
+##### Also add sliding effect on "Deals Of The Sections" ,in footer if you click on any of the social media it will redirect to their respective social media account and also if you click on the images (Download our App) in the footer it will moves you in google play store / Apple store.
+#### This website design is responsive also.
+
 ![Screenshot (227)](https://user-images.githubusercontent.com/51984459/178204581-38ca320f-8809-43ac-ab8e-714b563a098b.png)
 ![Screenshot (228)](https://user-images.githubusercontent.com/51984459/178204596-c8a341db-a39e-4f94-bf92-4b8b3ab626ac.png)
 ![Screenshot (229)](https://user-images.githubusercontent.com/51984459/178204645-e6212219-1932-4abf-85aa-ed4740ff60c7.png)
